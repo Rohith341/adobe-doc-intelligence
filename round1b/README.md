@@ -28,3 +28,13 @@ docker run --rm -e PERSONA="PhD Researcher in Computational Biology" -e JOB="Pre
 - Place input PDFs in `input/`.
 - Output JSONs will appear in `output/`.
 - The persona-driven output will be in `output/persona_output.json`. 
+
+## Team
+**Team Name:** Byte_codes
+
+- Rohith Saindla (Team Leader)  
+  Phone: +919014850368
+- Sreeja Rayarakula  
+  Phone: +916305549167
+- Akshay Kumar Kandunuri  
+  Phone: +918885128254 

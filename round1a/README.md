@@ -26,3 +26,13 @@ docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --networ
 ```
 - Place input PDFs in `input/`.
 - Output JSONs will appear in `output/`. 
+
+## Team
+**Team Name:** Byte_codes
+
+- Rohith Saindla (Team Leader)  
+  Phone: +919014850368
+- Sreeja Rayarakula  
+  Phone: +916305549167
+- Akshay Kumar Kandunuri  
+  Phone: +918885128254 
