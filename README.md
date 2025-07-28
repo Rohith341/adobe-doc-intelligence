@@ -47,4 +47,8 @@ docker run --rm -e PERSONA="PhD Researcher in Computational Biology" -e JOB="Pre
 - The persona-driven output will be in `output/persona_output.json`.
 
 ## Contact
-- [Your Team Name & Contact Info] 
+- {
+  Byte_codes 
+  +91 9014850368
+  rohithsaindla11@gmail.com
+  }
